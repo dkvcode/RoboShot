@@ -6,7 +6,7 @@
  archive.bat is full snapshot sample for create a mirror of source directories to network SMB storage.
  daily.bat is a daily backup sample.
  weekly.bat is a weekly backup sample.
- You will need to make some changes to bat-files and roboshot.ps1 file:
+ You will need to make some changes to bat-files and cfg-files:
  roboshot_path is you RoboShot directory
  src_path if source directory
  dst_path if destination directory fo storing backups.
